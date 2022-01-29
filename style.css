@@ -1,0 +1,26 @@
+h1 {
+	font-family: Garamond;
+	font-size: 100px;
+	font-style: italic;
+	color: FireBrick;
+	text-align: center;
+}
+img {
+	align-items: center;
+	border: 30px solid FireBrick;
+	width: 100%;
+	box-sizing: border-box;
+}
+p {
+	text-align: center;
+	font-size: 50px;
+	background-color: FireBrick;
+	color: white;
+}
+ol {
+	text-align: center;
+	color: FireBrick;
+	line-height:150%;
+	list-style:none;
+	font-weight:bold;
+}
